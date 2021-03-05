@@ -18,4 +18,5 @@ public class WeightOnMoon {
     weightOnMoon = mass * MOON_GRAVITY;
     System.out.format("Your weight on Moon: %.2f", weightOnMoon);
   }
+
 }
